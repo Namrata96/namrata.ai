@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, I'm Namrata Mukhija
 
-You can use the [editor on GitHub](https://github.com/Namrata96/namrata.ai/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have 2+ years of Software Engineering experience at Microsoft across varied products PowerPoint, Fluid, and Unified Service Desk. I also work with two non-profits Women in AI and Thousand Eyes On Me.
 
 ### Markdown
 
